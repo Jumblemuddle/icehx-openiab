@@ -9,7 +9,7 @@ import icehx.openiab.SkuDetails;
 
 //http://docs.oracle.com/javase/1.5.0/docs/guide/jni/spec/types.html
 
-import openfl.utils.JNI;
+import lime.system.JNI;
 import haxe.Json;
 
 class CallbackProxy {
